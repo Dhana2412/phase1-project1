@@ -1,0 +1,8 @@
+C:\Users\dhana\OneDrive\Documents\Phase1 end project1\FastPace Cricket Academy\FastPace Cricket Academy\bin\Debug\FastPace Cricket Academy.exe.config
+C:\Users\dhana\OneDrive\Documents\Phase1 end project1\FastPace Cricket Academy\FastPace Cricket Academy\bin\Debug\FastPace Cricket Academy.exe
+C:\Users\dhana\OneDrive\Documents\Phase1 end project1\FastPace Cricket Academy\FastPace Cricket Academy\bin\Debug\FastPace Cricket Academy.pdb
+C:\Users\dhana\OneDrive\Documents\Phase1 end project1\FastPace Cricket Academy\FastPace Cricket Academy\obj\Debug\FastPace Cricket Academy.csproj.AssemblyReference.cache
+C:\Users\dhana\OneDrive\Documents\Phase1 end project1\FastPace Cricket Academy\FastPace Cricket Academy\obj\Debug\FastPace Cricket Academy.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhana\OneDrive\Documents\Phase1 end project1\FastPace Cricket Academy\FastPace Cricket Academy\obj\Debug\FastPace Cricket Academy.csproj.CoreCompileInputs.cache
+C:\Users\dhana\OneDrive\Documents\Phase1 end project1\FastPace Cricket Academy\FastPace Cricket Academy\obj\Debug\FastPace Cricket Academy.exe
+C:\Users\dhana\OneDrive\Documents\Phase1 end project1\FastPace Cricket Academy\FastPace Cricket Academy\obj\Debug\FastPace Cricket Academy.pdb
